@@ -5,7 +5,7 @@ Background
 In this assignment, using the concepts learned, complete two Python challenges: PyBank and PyPoll. Both tasks present a real-world situation where newly developed Python scripting skills come in handy.
 
 PyBank Instructions
-In this Challenge, you are tasked with creating a Python script to analyse the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses". The task is to create a Python script that analyses the records to calculate each of the following values:
+    In this Challenge, you are tasked with creating a Python script to analyse the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses". The task is to create a Python script that analyses the records to calculate each of the following values: 
     1. The total number of months included in the dataset
     2. The net total amount of "Profit/Losses" over the entire period
     3. The changes in "Profit/Losses" over the entire period, and then the average of those changes
